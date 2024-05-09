@@ -1,0 +1,224 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-circle-btn {
+    border: 1px solid transparent !important;
+    border-radius: 40px !important ;
+    width: 100px !important;
+    height: 29px !important;
+    font-weight: bold !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+}
+
+.custom-circle-btn:hover{
+  background-color: transparent !important;
+  color:black !important;
+  border: 1px solid grey!important
+}
+
+.nav-link{
+    font-size: 20px;
+    margin-top: 40px !important;
+}
+
+.nav-link:hover{
+    color: #5F5F5F !important;
+}
+
+.navbar-brand span b{
+    font-size: 40px;
+    margin-top: 500px !important;
+}
+
+.navbar-brand{
+    margin-top: 10px !important;
+}
+
+.navbar-brand img{
+    margin-bottom: 20px;
+}
+
+.whereTo{
+    text-align: center;
+}
+
+.whereTo h1{
+    font-size: 70px;
+    color :#296a60;
+}
+
+.whereTo h1 span{
+    color:#a2a72c;
+}
+
+.customize-input {
+    border: 1px solid transparent !important;
+    border-radius: 40px !important;
+    width: 390px !important;
+    height: 50px !important;
+    font-size: 16px !important;
+    padding: 8px 15px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    border-color: #ccc !important;
+}
+
+.customize-input:focus {
+    border-color: grey !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.trendingDestinations h3{
+    padding-left: 5px;
+}
+
+.trendingDestinations p{
+ padding-left: 7px;
+ font-size: 18px;
+ color: #ccc;
+}
+
+.row img{
+    width:350px !important;
+    height: 300px !important;
+}
+
+.getTheAppSec{
+    background-color: #E8F1DE;
+    width: 90%;
+    height: 330px;
+    margin-left: 70px;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+}
+
+.greenLogo{
+    width: 220px;
+    height: 220px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.getTheAppSec p{
+    padding-left: 90px;
+    display: inline-block;
+    font-size: 60px;
+}
+
+.getTheAppSec p span{
+    padding-left: 70px;
+}
+
+.btn1{
+    margin-left: 100px;
+}
+
+.btn2{
+    margin-left: 600px;
+}
+
+.btn1,.btn2{
+    border: 1px solid transparent ;
+    border-radius: 40px ;
+    width: 250px ;
+    height: 35px ;
+    font-weight: bold ;
+    align-items: center ;
+    text-align: center ;    
+}
+
+.btn1{
+    background-color: white;
+    color:black;
+}
+
+.btn2{
+    background-color: black;
+    color: white;
+}
+
+.btn2:hover,.btn1:hover{
+    background-color: transparent ;
+    color:black ;
+    border: 1px solid grey
+  }
+
+  .mapSec{
+    background-color: #D7DBDD;
+    width: 90%;
+    height: 500px;
+    margin-left: 70px;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+
+  }
+ 
+  .mapSec .header{
+    font-size: 50px;
+    text-align: center;
+  }
+.div-item1, .div-item2, .div-item3 {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.logo1, .logo2, .logo3 {
+    margin-right: 10px !important;
+    margin-top: 20px !important;
+}
+
+.p1, .p2, .p3 {
+    font-size: 20px;
+    margin-top: 30px;
+}
+  .mapSec .map{
+    width: 500px;
+    height: 330px;
+    margin-left: 800px;
+    margin-top: -300px;
+  }
+
+  .logo1,.logo2,.logo3{
+    width: 80px;
+    height: 80px;
+    margin-left: 90px;
+    margin-top: 15px;
+  }
+
+  .mapSec .header{
+    text-align: center;
+  }
+  .mapSec .explore{
+      text-align:center;
+  }
+ .mapSec span{
+    color:green;
+ }
+ .mapSec div{
+    display: inline;
+ }
+
+ .footer{
+    width: 100%;
+    background-color: black;
+    height: 250px;
+ }
+ .footer .icons{
+    margin-left: 450px;
+ }
+ .footer .icons svg{
+    margin-left: 100px;
+    margin-top: 50px;
+ }
+ .footer p{
+  color : white;
+  margin-top: 100px;
+  margin-left: 90px;
+ }
